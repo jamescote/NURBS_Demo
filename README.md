@@ -1,5 +1,5 @@
 Compiling on Windows:
-Compiled using MSVS 2015.  Will add one for 2013 as well in the future.  
+Compiled using MSVS 2015. 
 You'll need to set up OpenGL, GLEW, and trimesh.lib in the settings of the solution as required libraries.
 
 Compiling on Linux:
@@ -22,7 +22,7 @@ Left Click - Adds a Control Point or hold and drag over existing Control Point
 Right Click - Rotate around the origin in 3d space.
 
 Code Re-use:
-Majority of Code was written by me with some small functions provided by previous instructors for Image Reading (Not used in HypoCycloid implementation). Code was repurposed from my Animation/Rendering Framework to use a 2D/Orothogonal View Camera to view 3D images on a 2D plane. Same framework will be used for later modelling assignments.
+Majority of Code was written by me with some small functions provided by previous instructors for Image Reading. Code was repurposed from my Animation/Rendering Framework to use a 2D/Orothogonal View Camera to view 3D images on a 2D plane.
 
 
 
